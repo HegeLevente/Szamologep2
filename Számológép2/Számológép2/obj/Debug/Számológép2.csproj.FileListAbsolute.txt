@@ -1,0 +1,11 @@
+C:\Users\levij\source\repos\Számológép2\Számológép2\obj\Debug\Számológép2.csproj.AssemblyReference.cache
+C:\Users\levij\source\repos\Számológép2\Számológép2\obj\Debug\Számológép2.csproj.SuggestedBindingRedirects.cache
+C:\Users\levij\source\repos\Számológép2\Számológép2\obj\Debug\Számológép2.Form1.resources
+C:\Users\levij\source\repos\Számológép2\Számológép2\obj\Debug\Számológép2.Properties.Resources.resources
+C:\Users\levij\source\repos\Számológép2\Számológép2\obj\Debug\Számológép2.csproj.GenerateResource.cache
+C:\Users\levij\source\repos\Számológép2\Számológép2\obj\Debug\Számológép2.csproj.CoreCompileInputs.cache
+C:\Users\levij\source\repos\Számológép2\Számológép2\bin\Debug\Számológép2.exe.config
+C:\Users\levij\source\repos\Számológép2\Számológép2\bin\Debug\Számológép2.exe
+C:\Users\levij\source\repos\Számológép2\Számológép2\bin\Debug\Számológép2.pdb
+C:\Users\levij\source\repos\Számológép2\Számológép2\obj\Debug\Számológép2.exe
+C:\Users\levij\source\repos\Számológép2\Számológép2\obj\Debug\Számológép2.pdb
